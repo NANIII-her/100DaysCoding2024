@@ -1,6 +1,6 @@
 package Day1;
 
-public class MyProjectInDay1{
+public class HariKe1{
     public static void main(String[] args){
         //Di abwah ini adalah main methodnya
         System.out.println("=======================================");
