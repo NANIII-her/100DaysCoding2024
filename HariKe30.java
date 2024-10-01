@@ -1,6 +1,6 @@
 import java.math.BigDecimal;
 
-public class anjay{
+public class HariKe30{
     public static void main(String[] args){
         
         System.out.println("oke lah");
@@ -10,3 +10,4 @@ public class anjay{
         System.out.println("Uangnya Wawa: Rp." + mm);
     }
 }
+
