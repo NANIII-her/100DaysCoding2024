@@ -1,4 +1,4 @@
-public class Evaluasi {
+public class HariKe13 {
     public static void main(String[] args) {
         
         byte var1, var2; //Mendeklarasikan variabel var1 dan var2
